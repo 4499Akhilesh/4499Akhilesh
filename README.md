@@ -66,22 +66,16 @@ B.Tech CSE (AI/ML) Student | Java Full Stack Developer
 
 ---
 
-# 📊 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/4499akhilesh?theme=dark&font=Roboto&ext=activity" width="320"/>
-</p>
 
 ---
 
 # 🏆 Achievements
 
 - 💻 Built **Java, MERN Stack & AI Projects**
-- 📊 Solved **90+ LeetCode Problems**
 - 🚀 Continuously improving **DSA, Full Stack Development & Cloud Skills**
 
 ---
 
 # ⚡ Fun Fact
 
-> ☕ Code • 🏋️ Gym • 📚 Learn • 🔁 Repeat
+> ☕ Code •  • 📚 Learn • 🔁 Repeat
