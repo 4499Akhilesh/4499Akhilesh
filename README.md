@@ -5,7 +5,6 @@ B.Tech CSE (AI/ML) Student | Java Full Stack Developer
 </h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/4499akhilesh/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/akhilesh-pal-41b992328/">
